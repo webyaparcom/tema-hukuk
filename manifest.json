@@ -1,0 +1,29 @@
+{
+  "name": "Kaya Hukuk Bürosu",
+  "short_name": "Kaya Hukuk B",
+  "description": "Kaya Hukuk Bürosu: Gaziantep’te hukuki danışmanlık ve dava takibi; çalışma alanlarımız ve ön görüşme talebi. (Demo site)",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1F2A44",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

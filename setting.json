@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kaya Hukuk Bürosu: Gaziantep’te hukuki danışmanlık ve dava takibi; çalışma alanlarımız ve ön görüşme talebi. (Demo site)",
+    "en": "Kaya Law Office: legal counsel and litigation in Gaziantep; our practice areas and consultation requests. (Demo site)",
+    "ar": "مكتب كايا للمحاماة: استشارات قانونية وتمثيل أمام القضاء في غازي عنتاب، مع مجالات عملنا وطلب موعد استشارة. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "hukuk bürosu, avukat",
+    "en": "law office, lawyer",
+    "ar": "مكتب محاماة، محامٍ"
+  },
+  "category": "Kurumsal",
+  "name": "Kaya Hukuk Bürosu",
+  "domain": "hukuk.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "source-sans-3",
+    "heading": "dm-serif-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#1F2A44",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "5px",
+    "--mx-radius-md": "8px",
+    "--mx-radius-lg": "11px",
+    "--mx-radius-xl": "15px"
+  },
+  "icon": "icon.png"
+}

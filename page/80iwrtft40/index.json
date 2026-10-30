@@ -1,0 +1,39 @@
+{
+  "id": "80iwrtft40",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Çalışma odası, toplantı masası ve kitaplıktan görüntüler.",
+    "en": "Views of the study, the meeting table and the library.",
+    "ar": "صور من غرفة العمل وطاولة الاجتماعات والمكتبة."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "mcgvbe"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-30T21:45:25.986Z",
+  "update": "2026-10-30T21:54:24.930Z"
+}

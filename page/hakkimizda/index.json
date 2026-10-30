@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 5,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "tfe57c",
+      "vcunc4"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Kaya Hukuk Bürosu, hukuki süreçlerin sade bir dille anlatılmasını ve düzenli bir dosya takibini ilke edinen kurgusal bir demo bürodur. Bu sitedeki isimler, adresler ve belge bilgileri kurgusaldır.",
+    "en": "Kaya Law Office is a fictional demo office that holds to explaining legal processes plainly and keeping files in order. Names, addresses and credentials on this site are fictional.",
+    "ar": "مكتب كايا للمحاماة مكتب تجريبي افتراضي يلتزم بشرح الإجراءات القانونية بلغة بسيطة وبمتابعة منظمة للملفات. الأسماء والعناوين والبيانات المهنية في هذا الموقع افتراضية."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-10-30T21:54:24.932Z",
+  "date": "2026-10-30"
+}
