@@ -1,0 +1,39 @@
+{
+  "id": "vweokdg3wn",
+  "name": {
+    "tr": "Meslek Kuralları",
+    "en": "Professional Rules",
+    "ar": "قواعد المهنة"
+  },
+  "description": {
+    "tr": "Reklam yasağı, gizlilik ve bilgilendirme ilkeleri.",
+    "en": "Advertising ban, confidentiality and information principles.",
+    "ar": "حظر الإعلان والسرية ومبادئ الإعلام."
+  },
+  "keyword": {
+    "tr": "meslek kuralları, yasal uyarı",
+    "en": "professional rules, legal notice",
+    "ar": "قواعد المهنة، إشعار قانوني"
+  },
+  "path": "meslek-kurallari",
+  "icon": "rule",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "6u7cmx"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Meslek Kuralları",
+    "en": "Professional Rules",
+    "ar": "قواعد المهنة"
+  },
+  "date": "2026-10-30T21:45:25.968Z",
+  "update": "2026-10-30T21:54:24.922Z"
+}

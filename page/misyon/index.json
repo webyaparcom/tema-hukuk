@@ -1,0 +1,41 @@
+{
+  "id": "misyon",
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "misyon",
+  "icon": "flag",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Misyonumuz, hukuki süreçleri sade bir dille anlatmak ve her dosyada düzenli, gizliliğe saygılı bir çalışma yürütmektir.</p>",
+    "en": "<h2>Our mission</h2>\n<p>Our mission is to explain legal processes plainly and to work in an orderly way that respects confidentiality in every file.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>مهمتنا شرح الإجراءات القانونية بلغة بسيطة والعمل في كل ملف بانتظام واحترام للسرية.</p>"
+  },
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "date": "2026-10-30T21:45:25.597Z",
+  "update": "2026-10-30T21:54:24.958Z"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "oxhuuimfu0",
+  "name": {
+    "tr": "Ön Görüşme",
+    "en": "Consultation",
+    "ar": "طلب الاستشارة"
+  },
+  "description": {
+    "tr": "Talebiniz büro takvimine göre onaylanır; bilgi telefon veya e-posta ile iletilir. Bu form avukatlık ilişkisi kurmaz.",
+    "en": "Your request is confirmed according to the office calendar and sent by phone or e-mail. This form does not create a lawyer–client relationship.",
+    "ar": "يُؤكَّد طلبك وفق تقويم المكتب ويُبلَّغ بالهاتف أو البريد الإلكتروني. هذا النموذج لا ينشئ علاقة محامٍ وموكّل."
+  },
+  "keyword": {
+    "tr": "hukuk bürosu, avukat",
+    "en": "law office, lawyer",
+    "ar": "مكتب محاماة، محامٍ"
+  },
+  "path": "gorusme-talebi",
+  "icon": "event",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "e77cml"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Ön Görüşme",
+    "en": "Consultation",
+    "ar": "طلب الاستشارة"
+  },
+  "date": "2026-10-30T21:45:25.974Z",
+  "update": "2026-10-30T21:54:24.925Z"
+}

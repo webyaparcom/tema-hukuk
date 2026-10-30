@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "id": "hapr2d00yb",
+      "name": {
+        "tr": "Çalışma Alanları",
+        "en": "Practice Areas",
+        "ar": "مجالات العمل"
+      },
+      "description": {
+        "tr": "Büromuzun çalıştığı başlıca hukuk alanları. Her dosya kendi koşullarına göre değerlendirilir.",
+        "en": "The main areas of law our office works in. Every file is assessed on its own facts.",
+        "ar": "المجالات القانونية الرئيسية التي يعمل فيها مكتبنا. يُقيَّم كل ملف وفق ظروفه الخاصة."
+      },
+      "path": "calisma-alanlari",
+      "icon": "gavel",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "gdl177",
+          "e05r6s",
+          "u6dqbl"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "oxhuuimfu0",
+      "name": {
+        "tr": "Ön Görüşme",
+        "en": "Consultation",
+        "ar": "طلب الاستشارة"
+      },
+      "description": {
+        "tr": "Talebiniz büro takvimine göre onaylanır; bilgi telefon veya e-posta ile iletilir. Bu form avukatlık ilişkisi kurmaz.",
+        "en": "Your request is confirmed according to the office calendar and sent by phone or e-mail. This form does not create a lawyer–client relationship.",
+        "ar": "يُؤكَّد طلبك وفق تقويم المكتب ويُبلَّغ بالهاتف أو البريد الإلكتروني. هذا النموذج لا ينشئ علاقة محامٍ وموكّل."
+      },
+      "path": "gorusme-talebi",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "e77cml"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "vweokdg3wn",
+      "name": {
+        "tr": "Meslek Kuralları",
+        "en": "Professional Rules",
+        "ar": "قواعد المهنة"
+      },
+      "description": {
+        "tr": "Reklam yasağı, gizlilik ve bilgilendirme ilkeleri.",
+        "en": "Advertising ban, confidentiality and information principles.",
+        "ar": "حظر الإعلان والسرية ومبادئ الإعلام."
+      },
+      "path": "meslek-kurallari",
+      "icon": "rule",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "6u7cmx"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "7m29bmty7z",
+      "name": {
+        "tr": "Sıkça Sorulan Sorular",
+        "en": "FAQ",
+        "ar": "الأسئلة الشائعة"
+      },
+      "description": {
+        "tr": "Sıkça sorulan sorular ve yanıtları.",
+        "en": "Frequently asked questions and answers.",
+        "ar": "الأسئلة الشائعة وإجاباتها."
+      },
+      "path": "sss",
+      "icon": "help",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "1522rn",
+          "u6dqbl"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "80iwrtft40",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Çalışma odası, toplantı masası ve kitaplıktan görüntüler.",
+        "en": "Views of the study, the meeting table and the library.",
+        "ar": "صور من غرفة العمل وطاولة الاجتماعات والمكتبة."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "mcgvbe"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 5,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "tfe57c",
+          "vcunc4"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Kaya Hukuk Bürosu, hukuki süreçlerin sade bir dille anlatılmasını ve düzenli bir dosya takibini ilke edinen kurgusal bir demo bürodur. Bu sitedeki isimler, adresler ve belge bilgileri kurgusaldır.",
+        "en": "Kaya Law Office is a fictional demo office that holds to explaining legal processes plainly and keeping files in order. Names, addresses and credentials on this site are fictional.",
+        "ar": "مكتب كايا للمحاماة مكتب تجريبي افتراضي يلتزم بشرح الإجراءات القانونية بلغة بسيطة وبمتابعة منظمة للملفات. الأسماء والعناوين والبيانات المهنية في هذا الموقع افتراضية."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 6,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9ct01",
+          "k9mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

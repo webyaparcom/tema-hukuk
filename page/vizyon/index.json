@@ -1,0 +1,41 @@
+{
+  "id": "vizyon",
+  "name": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "الرؤية"
+  },
+  "description": {
+    "tr": "Vizyonumuz",
+    "en": "Our vision",
+    "ar": "رؤيتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "path": "vizyon",
+  "icon": "visibility",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {
+    "tr": "<h2>Vizyonumuz</h2>\n<p>Meslek kurallarına bağlı, açık iletişim kuran ve güven veren bir hukuk bürosu olmak.</p>",
+    "en": "<h2>Our vision</h2>\n<p>To be a law office that is bound by professional rules, communicates openly and inspires trust.</p>",
+    "ar": "<h2>رؤيتنا</h2>\n<p>أن نكون مكتب محاماة ملتزمًا بقواعد المهنة، يتواصل بوضوح ويبعث على الثقة.</p>"
+  },
+  "title": {
+    "tr": "Vizyon",
+    "en": "Vision",
+    "ar": "الرؤية"
+  },
+  "date": "2026-10-30T21:45:25.597Z",
+  "update": "2026-10-30T21:54:24.961Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hapr2d00yb",
+  "name": {
+    "tr": "Çalışma Alanları",
+    "en": "Practice Areas",
+    "ar": "مجالات العمل"
+  },
+  "description": {
+    "tr": "Büromuzun çalıştığı başlıca hukuk alanları. Her dosya kendi koşullarına göre değerlendirilir.",
+    "en": "The main areas of law our office works in. Every file is assessed on its own facts.",
+    "ar": "المجالات القانونية الرئيسية التي يعمل فيها مكتبنا. يُقيَّم كل ملف وفق ظروفه الخاصة."
+  },
+  "keyword": {
+    "tr": "hukuk bürosu, avukat",
+    "en": "law office, lawyer",
+    "ar": "مكتب محاماة، محامٍ"
+  },
+  "path": "calisma-alanlari",
+  "icon": "gavel",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "gdl177",
+      "e05r6s",
+      "u6dqbl"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Çalışma Alanları",
+    "en": "Practice Areas",
+    "ar": "مجالات العمل"
+  },
+  "date": "2026-10-30T21:45:25.954Z",
+  "update": "2026-10-30T21:54:24.918Z"
+}
